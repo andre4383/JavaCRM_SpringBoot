@@ -178,6 +178,3 @@ Lista todos os contatos de um cliente específico.
 
 ---
 
-## 👨‍💻 Autor
-
-(Seu Nome ou Usuário do GitHub)
